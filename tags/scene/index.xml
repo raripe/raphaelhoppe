@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Raphael Hoppe</title>
+    <link>https://example.com/tags/scene/</link>
+    <description>Recent content in scene on Raphael Hoppe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Portfolio Dashboard</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>Set up Linux server with hourly updates via Crontab and Python. Data is stored in a MySQL database and visualized via PowerBI. Codes are running hourly to update stock prices. Benchmark prices and news feed are created daily. Transactions are classified via Screenshots and OCR. Company name, price, number of stocks and transaction costs are automatically read and inserted into the SQL database PowerBI is directly connected to the SQL Database and is used as a visualization tool.</description>
+    </item>
+    
+  </channel>
+</rss>

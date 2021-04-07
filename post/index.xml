@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raphael Hoppe</title>
+    <link>https://raripe.github.io/raphaelhoppe/post/</link>
+    <description>Recent content in Projects on Raphael Hoppe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://raripe.github.io/raphaelhoppe/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Portfolio Dashboard</title>
+      <link>https://raripe.github.io/raphaelhoppe/post/project-1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raripe.github.io/raphaelhoppe/post/project-1/</guid>
+      <description>Set up Linux server with hourly updates via Crontab and Python. Data is stored in a MySQL database and visualized via PowerBI. Codes are running hourly to update stock prices. Benchmark prices and news feed are created daily. Transactions are classified via Screenshots and OCR. Company name, price, number of stocks and transaction costs are automatically read and inserted into the SQL database PowerBI is directly connected to the SQL Database and is used as a visualization tool.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Black-Litterman Model with ESG related views</title>
+      <link>https://raripe.github.io/raphaelhoppe/post/project-2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raripe.github.io/raphaelhoppe/post/project-2/</guid>
+      <description>ESG related topics have gained great traction over the last couple of years. ESG ratings play an increasing role in the financial sectors&#39; role in their role to fight climate change. All data is taken from Reuters.
+It can be seen that average industy ratings in the S&amp;amp;P500 have increased over the last couple of years:
+  Furthermore, when looking at historic data, it can be seen that unrated companies have become less and less and ratings in generall have increased on average.</description>
+    </item>
+    
+  </channel>
+</rss>
