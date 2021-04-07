@@ -13,7 +13,7 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://raripe.github.io/raphaelhoppe/post/project-1/</guid>
-      <description>Set up Linux server with hourly updates via Crontab and Python. Data is stored in a MySQL database and visualized via PowerBI. Codes are running hourly to update stock prices. Benchmark prices and news feed are created daily. Transactions are classified via Screenshots and OCR. Company name, price, number of stocks and transaction costs are automatically read and inserted into the SQL database PowerBI is directly connected to the SQL Database and is used as a visualization tool.</description>
+      <description>Set up Linux server with hourly updates via Crontab and Python. Data is stored in a MySQL database and visualized via PowerBI. Codes are running hourly to update stock prices. Benchmark prices and news feed are created daily. Transactions are classified via Screenshots and OCR. Company name, price, number of stocks and transaction costs are automatically read and inserted into the SQL database. PowerBI is directly connected to the SQL Database and is used as a visualization tool.</description>
     </item>
     
     <item>
